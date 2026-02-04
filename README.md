@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on my data analysis project<br>I am looking to collaborate on a data analysis project<br>I am looking for help with analysing using models<br>I am currently learning data science<br>ask me about Animation<br>I am a game designer transitioning into data analyst or data scientist<br>
+Hi! I’m a game designer transitioning into Data Analytics / Data Science.<br>Currently working on data analysis projects and learning data science.<br>Open to collaborating on data analysis projects and model-based analysis.<br>Ask me about animation, game design, or creative pipelines.<br>
 
 
 ## 🌐 Socials:
